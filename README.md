@@ -5,7 +5,9 @@
 
 ## Defekt details
 8 masters
+
 2 axis (Weight, width)
+
 8 styles (Reverse Connected, Regular, Cut, Connected, Loose, Connected Loose, Reverse Connected Loose, Cut Lose)
 
 Defekt on [Lem Fonts website](https://lemfont.xyz/defekt/).
