@@ -13,5 +13,4 @@
 ### Links
 
 Defekt on [Lem Fonts website](https://lemfont.xyz/defekt/).
-
 Released under [SIL Open Font License 1.1](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ofl).
